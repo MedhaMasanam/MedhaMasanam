@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Medha 👋</h1>
   <p align="center">
-    <strong>Machine Learning Engineer | Time-Series Forecasting | Computer Vision</strong>
+    <strong>Software Engineer | Data & Machine Learning | Computer Vision</strong>
   </p>
   <p align="center">
     <a href="https://MedhaMasanam.github.io" target="_blank">Portfolio Website</a> • 
