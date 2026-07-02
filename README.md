@@ -59,6 +59,7 @@ I am a Software Engineer and Data Scientist specializing in **Deep Learning**, *
 | **[Spam-vs-Ham Classifier](https://github.com/MedhaMasanam/Spam-vs-Ham)** | 🛡️ Real-time SMS spam classification application powered by the Google Gemini NLP API with a modern React interface. | `React`, `TypeScript`, `Gemini API` | [View Repo](https://github.com/MedhaMasanam/Spam-vs-Ham) |
 | **[Gesture Media Player](https://github.com/MedhaMasanam/Gesture_Media_Player)** | 🖐️ Interactive media player controlled entirely by hand gestures and facial detection via webcam input. | `OpenCV`, `MediaPipe`, `VLC` | [View Repo](https://github.com/MedhaMasanam/Gesture_Media_Player) |
 | **[Manim Animations](https://github.com/MedhaMasanam/manim-animation-templates)** | 📐 Mathematical visualization engines built with 3B1B's Manim framework for complex geometric and plane animations. | `Python`, `Manim` | [View Repo](https://github.com/MedhaMasanam/manim-animation-templates) |
+| **[Movie Recommendation App](https://github.com/MedhaMasanam/movie-recommendation-prototype)** | 🎬 Full-stack movie recommendation prototype with real-time genre filtering and a custom Node/Express REST API. | `React`, `Node.js`, `Express` | [View Repo](https://github.com/MedhaMasanam/movie-recommendation-prototype) |
 
 ---
 
