@@ -10,10 +10,10 @@ I specialize in building predictive models for complex environmental data. Recen
 - **Backend/Scripts:** Python, TypeScript, JavaScript
 
 ### 🚀 Featured Work
-- [**satelliteGAN (INCOIS SST Forecasting)**](https://github.com/MedhaMasanam123/satelliteGAN) - Sea Surface Temperature forecasting over the Arabian Sea using LSTM, N-BEATS, and Moirai. (INCOIS Internship Project)
-- [**Gesture Media Player**](https://github.com/MedhaMasanam123/Gesture_Media_Player) - Computer vision application for controlling media playback via hand gestures.
+- [**INCOIS-SST-Forecasting**](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting) - Sea Surface Temperature forecasting over the Arabian Sea using LSTM, N-BEATS, and Moirai. (INCOIS Internship Project)
+- [**Gesture Media Player**](https://github.com/MedhaMasanam/Gesture_Media_Player) - Computer vision application for controlling media playback via hand gestures.
 
 ### 🌐 Connect with me
 - [LinkedIn Profile](https://www.linkedin.com/in/medha-masanam-948916287/)
-- [Portfolio Website](https://MedhaMasanam123.github.io)
+- [Portfolio Website](https://MedhaMasanam.github.io)
 - [Email Me](mailto:medha@example.com)
