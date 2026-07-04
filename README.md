@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Software Engineer and Data Scientist specializing in **Deep Learning**, **Time-Series Forecasting**, and **Computer Vision**. Recently, I worked on operational oceanography models during my internship at **INCOIS**, where I designed a novel deep learning pipeline using LSTM, N-BEATS, and Salesforce Moirai to forecast Sea Surface Temperatures with a 0.108°C RMSE.
+I am a Software Engineer and Data Engineer specializing in **Deep Learning**, **Time-Series Forecasting**, and **Computer Vision**. Recently, I worked on operational oceanography models during my internship at **INCOIS**, where I designed a novel deep learning pipeline using LSTM, N-BEATS, and Salesforce Moirai to forecast Sea Surface Temperatures with a 0.108°C RMSE.
 
 - 🎓 **Education:** Computer Science at ICFAI Foundation for Higher Education (IFHE)
 - 🔬 **Focus Areas:** Neural Networks, Time-Series Analysis (N-BEATS, Transformers), Computer Vision (MediaPipe, OpenCV).
