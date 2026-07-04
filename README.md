@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Medha 👋</h1>
+  <h1 align="center">Hi, I'm Medha 👋</h1>
   <p align="center">
-    <strong>Computer Science Graduate | Aspiring Software & Data Engineer</strong>
+    <strong>Computer Science Graduate | Software Engineering & Machine Learning</strong>
   </p>
   <p align="center">
     <a href="https://MedhaMasanam.github.io" target="_blank">Portfolio Website</a> • 
     <a href="https://www.linkedin.com/in/medha-masanam-948916287/" target="_blank">LinkedIn</a> • 
-    <a href="mailto:medha@example.com">Email Me</a>
+    <a href="mailto:medhamasanam.mm@gmail.com">Email Me</a>
   </p>
 </div>
 
@@ -21,11 +21,11 @@
 
 ## 👩‍💻 About Me
 
-I am a recent Computer Science graduate with a strong passion for **Machine Learning**, **Data Engineering**, and **Software Development**. I love exploring new technologies and solving complex problems. Recently, I completed an internship at **INCOIS**, where I gained hands-on experience building time-series forecasting models to predict Sea Surface Temperatures.
+I'm a recent Computer Science graduate interested in Machine Learning, Software Engineering, and Data Engineering. During my internship at INCOIS I worked on time-series forecasting for Arabian Sea sea surface temperatures, and I enjoy building practical projects ranging from computer vision applications to full-stack web apps.
 
 - 🎓 **Education:** Computer Science at ICFAI Foundation for Higher Education (IFHE)
 - 🔬 **Interests:** Python Development, Machine Learning, Data Analytics, and Full-Stack Web Development.
-- 💡 **Currently Learning:** Distributed Systems, AI Agents, and MLOps.
+- 💡 **Currently Learning:** Distributed Systems, Agentic AI, and MLOps.
 
 ---
 
@@ -55,7 +55,7 @@ I am a recent Computer Science graduate with a strong passion for **Machine Lear
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **[INCOIS SST Forecasting](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting)** | 🌊 A research project exploring different models (Moirai, N-BEATS) for predicting ocean temperatures. Achieved a 0.108°C RMSE during my internship. | `PyTorch`, `N-BEATS`, `NetCDF4` | [View Repo](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting) |
+| **[INCOIS SST Forecasting](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting)** | 🌊 Research project completed during my internship. Compared LSTM, N-BEATS, and Moirai models for forecasting Arabian Sea SST. | `PyTorch`, `N-BEATS`, `NetCDF4` | [View Repo](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting) |
 | **[Spam-vs-Ham Classifier](https://github.com/MedhaMasanam/Spam-vs-Ham)** | 🛡️ A full-stack web application that uses the Gemini API to classify SMS messages as spam or valid in real-time. | `React`, `TypeScript`, `Gemini API` | [View Repo](https://github.com/MedhaMasanam/Spam-vs-Ham) |
 | **[Gesture Media Player](https://github.com/MedhaMasanam/Gesture_Media_Player)** | 🖐️ A computer vision application built during college that lets users control media playback using hand gestures via a webcam. | `OpenCV`, `MediaPipe`, `Python` | [View Repo](https://github.com/MedhaMasanam/Gesture_Media_Player) |
 | **[Movie Recommendation App](https://github.com/MedhaMasanam/movie-recommendation-prototype)** | 🎬 A full-stack prototype that allows users to browse movies and receive personalized recommendations. | `React`, `Node.js`, `Express` | [View Repo](https://github.com/MedhaMasanam/movie-recommendation-prototype) |
