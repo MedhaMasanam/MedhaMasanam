@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Medha 👋</h1>
   <p align="center">
-    <strong>Software Engineer | Data & Machine Learning | Computer Vision</strong>
+    <strong>Computer Science Graduate | Aspiring Software & Data Engineer</strong>
   </p>
   <p align="center">
     <a href="https://MedhaMasanam.github.io" target="_blank">Portfolio Website</a> • 
@@ -21,11 +21,11 @@
 
 ## 👩‍💻 About Me
 
-I am a Software Engineer and Data Engineer specializing in **Deep Learning**, **Time-Series Forecasting**, and **Computer Vision**. Recently, I worked on operational oceanography models during my internship at **INCOIS**, where I designed a novel deep learning pipeline using LSTM, N-BEATS, and Salesforce Moirai to forecast Sea Surface Temperatures with a 0.108°C RMSE.
+I am a recent Computer Science graduate with a strong passion for **Machine Learning**, **Data Engineering**, and **Software Development**. I love exploring new technologies and solving complex problems. Recently, I completed an internship at **INCOIS**, where I gained hands-on experience building time-series forecasting models to predict Sea Surface Temperatures.
 
 - 🎓 **Education:** Computer Science at ICFAI Foundation for Higher Education (IFHE)
-- 🔬 **Focus Areas:** Neural Networks, Time-Series Analysis (N-BEATS, Transformers), Computer Vision (MediaPipe, OpenCV).
-- 💡 **Currently Learning:** Distributed Systems and MLOps.
+- 🔬 **Interests:** Python Development, Machine Learning, Data Analytics, and Full-Stack Web Development.
+- 💡 **Currently Learning:** Distributed Systems, AI Agents, and MLOps.
 
 ---
 
@@ -46,20 +46,19 @@ I am a Software Engineer and Data Engineer specializing in **Deep Learning**, **
 
 **Web & Cloud:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I've Built
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **[INCOIS SST Forecasting](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting)** | 🌊 State-of-the-art Deep Learning models for Arabian Sea Temperature forecasting. Achieved 0.108°C RMSE using Moirai Foundation Models. | `PyTorch`, `N-BEATS`, `NetCDF4` | [View Repo](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting) |
-| **[Spam-vs-Ham Classifier](https://github.com/MedhaMasanam/Spam-vs-Ham)** | 🛡️ Real-time SMS spam classification application powered by the Google Gemini NLP API with a modern React interface. | `React`, `TypeScript`, `Gemini API` | [View Repo](https://github.com/MedhaMasanam/Spam-vs-Ham) |
-| **[Gesture Media Player](https://github.com/MedhaMasanam/Gesture_Media_Player)** | 🖐️ Interactive media player controlled entirely by hand gestures and facial detection via webcam input. | `OpenCV`, `MediaPipe`, `VLC` | [View Repo](https://github.com/MedhaMasanam/Gesture_Media_Player) |
-| **[Manim Animations](https://github.com/MedhaMasanam/manim-animation-templates)** | 📐 Mathematical visualization engines built with 3B1B's Manim framework for complex geometric and plane animations. | `Python`, `Manim` | [View Repo](https://github.com/MedhaMasanam/manim-animation-templates) |
-| **[Movie Recommendation App](https://github.com/MedhaMasanam/movie-recommendation-prototype)** | 🎬 Full-stack movie recommendation prototype with real-time genre filtering and a custom Node/Express REST API. | `React`, `Node.js`, `Express` | [View Repo](https://github.com/MedhaMasanam/movie-recommendation-prototype) |
+| **[INCOIS SST Forecasting](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting)** | 🌊 A research project exploring different models (Moirai, N-BEATS) for predicting ocean temperatures. Achieved a 0.108°C RMSE during my internship. | `PyTorch`, `N-BEATS`, `NetCDF4` | [View Repo](https://github.com/MedhaMasanam/INCOIS-SST-Forecasting) |
+| **[Spam-vs-Ham Classifier](https://github.com/MedhaMasanam/Spam-vs-Ham)** | 🛡️ A full-stack web application that uses the Gemini API to classify SMS messages as spam or valid in real-time. | `React`, `TypeScript`, `Gemini API` | [View Repo](https://github.com/MedhaMasanam/Spam-vs-Ham) |
+| **[Gesture Media Player](https://github.com/MedhaMasanam/Gesture_Media_Player)** | 🖐️ A computer vision application built during college that lets users control media playback using hand gestures via a webcam. | `OpenCV`, `MediaPipe`, `Python` | [View Repo](https://github.com/MedhaMasanam/Gesture_Media_Player) |
+| **[Movie Recommendation App](https://github.com/MedhaMasanam/movie-recommendation-prototype)** | 🎬 A full-stack prototype that allows users to browse movies and receive personalized recommendations. | `React`, `Node.js`, `Express` | [View Repo](https://github.com/MedhaMasanam/movie-recommendation-prototype) |
 
 ---
 
@@ -72,11 +71,6 @@ I am a Software Engineer and Data Engineer specializing in **Deep Learning**, **
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MedhaMasanam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
----
 <p align="center">
-  <i>"Predicting the future by learning from the past."</i>
+  <i>Always learning, always building.</i>
 </p>
